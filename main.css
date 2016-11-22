@@ -1,0 +1,24 @@
+div{
+     width: 160px;
+     border:yellow 10px solid;
+     background: #fff;
+     text-align: center;
+     padding: 20px;
+     margin-left: 128px;
+     margin-right: 6px;
+     margin-bottom: 20px;
+     font-size: 12px;
+}
+
+.centrado{
+	    
+      
+      float: right;
+      margin-right: 368px;
+  }
+
+
+
+
+
+/* Escribe aqui tu CSS */
